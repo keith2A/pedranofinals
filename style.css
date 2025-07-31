@@ -309,7 +309,7 @@ input[type="password"] {
 }
 
 .signup-btn {
-  background-color: #c8d2ff; /* Light purple */
+  background-color: #c8d2ff; 
   color: #4d4dff;
   font-size: 16px;
   padding: 10px;
@@ -392,7 +392,7 @@ body.job-page {
   background: #fff;
   color: #333;
  
-  padding-bottom: 100px; /* space for bottom nav */
+  padding-bottom: 100px; 
 }
 
 .container {
@@ -405,7 +405,7 @@ body.job-page {
   background: white;
   color: #333;
   margin: 0;
-  padding-bottom: 90px; /* space for nav */
+  padding-bottom: 90px; 
 }
 
 .top-bar {
@@ -469,12 +469,12 @@ h1 {
 }
 
 /* home */
-/* Scoped styling for home screen only */
+
 .home-body {
   background: linear-gradient(to bottom, #B55C7A, #FFFFFF);
   font-family: 'Arial', sans-serif;
   margin: 0;
-  padding-bottom: 90px; /* leave space for bottom nav */
+  padding-bottom: 90px; 
 }
 
 .home-container {
